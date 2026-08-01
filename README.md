@@ -1,5 +1,5 @@
 # Software Engineer Building Reliable Systems
-### Building scalable web, mobile, backend, AI, and decentralized applications.
+### My work spans web, mobile, backend, AI, and decentralized systems, with a focus on reliability and scalability.
 
 > *“Simplicity is a necessary precondition for reliability.”*  
 > — Edsger W. Dijkstra
